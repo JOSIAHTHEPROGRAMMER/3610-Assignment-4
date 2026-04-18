@@ -1,0 +1,48 @@
+# Python cache
+
+**pycache**/
+_.pyc
+_.pyo
+\*.pyd
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Data files
+
+data/
+_.parquet
+_.csv
+
+# MLflow tracking data
+
+mlruns/
+mlartifacts/
+
+# Git history
+
+.git/
+.gitignore
+
+# Notebooks and docs
+
+_.ipynb
+_.md
+\*.txt.bak
+
+# Test files
+
+test_app.py
+.pytest_cache/
+
+# Environment
+
+.env
+
+# OS noise
+
+.DS_Store
+Thumbs.db

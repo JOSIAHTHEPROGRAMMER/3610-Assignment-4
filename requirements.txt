@@ -1,0 +1,13 @@
+numpy==2.3.2
+pandas==2.3.1
+sklearn==1.8.0
+seaborn==0.13.2
+skops==0.13.0
+requests==2.33.0
+pyarrow==18.1.0
+mlflow==3.10.1
+fastapi==0.135.3
+uvicorn==0.42.0
+pydantic==2.12.5
+httpx==0.28.1
+joblib==1.5.3

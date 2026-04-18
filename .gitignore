@@ -1,0 +1,35 @@
+# Data files
+data/
+*.parquet
+*.csv
+
+# Model artifacts
+models/
+
+# MLflow tracking data
+mlruns/
+mlartifacts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# OS noise
+.DS_Store
+Thumbs.db
