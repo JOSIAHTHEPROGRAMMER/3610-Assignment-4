@@ -15,7 +15,7 @@ Deploys a Random Forest model (trained on NYC Yellow Taxi data) as a containeriz
 ## Project Structure
 
 ```
-assignment4/
+3610-Assignment-4/
 ├── assignment4.ipynb    # Main notebook with experiments and demos
 ├── app.py               # FastAPI application
 ├── test_app.py          # pytest test suite
@@ -36,7 +36,7 @@ assignment4/
 
 ```bash
 git clone https://github.com/JOSIAHTHEPROGRAMMER/3610-Assignment-4
-cd assignment4
+cd 3610-Assignment-4
 ```
 
 **2. Create and activate a virtual environment**
